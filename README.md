@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/canesen7](github.com/canesen7)
 
-- 💬 Ask me about **React, Javascript, Jquery**
+- 💬 Ask me about **React, Javascript, jQuery**
 
 - 📫 How to reach me **canesenn7@gmail.com**
 
